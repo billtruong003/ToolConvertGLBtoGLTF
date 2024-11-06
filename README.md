@@ -1,7 +1,3 @@
-Here's the `README.md` in English:
-
----
-
 # GLB to GLTF Converter
 
 This script allows you to batch-convert `.glb` files to `.gltf` files with a simple user interface built using `tkinter`.
