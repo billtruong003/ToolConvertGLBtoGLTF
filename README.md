@@ -51,7 +51,3 @@ pip install pygltflib
 ## Example
 
 Suppose you have `.glb` files in an `input` folder and want to save the converted `.gltf` files in an `output/gltf` folder. The interface guides you through selecting the folders and quickly performs the conversion.
-
---- 
-
-Let me know if you need any further customization!
